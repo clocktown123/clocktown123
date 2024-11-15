@@ -1,4 +1,7 @@
 ## Hi there 👋
+* I am a novice programmer in highschool
+* About a year of experience
+* Contact me via email [jayclock2008@gmail.com]
 
 <!--
 **clocktown123/clocktown123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
