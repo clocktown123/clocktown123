@@ -1,12 +1,12 @@
 # Jayden Clockston
 **`highschool student and programmer`**
 
-Aspiring Software Engineer with about a year of experience so far. I am currently in highschool and excited to learn more about programming and learning new skills.
+Aspiring Computer Engineer with about three years of experience so far. I am currently in undergraduate school and am excited to learn more about engineering and learning new skills.
 
 Hi 👋 My name is Jayden Clockston
 =================================
 
-Novice Software Engineer
+Novice Computer Engineer
 ------------------------
 
 * 🌍  I'm based in Colorado
